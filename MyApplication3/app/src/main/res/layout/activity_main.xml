@@ -88,6 +88,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="App Dev 2018"
+        android:textStyle="bold"
         tools:layout_editor_absoluteX="75dp"
         tools:layout_editor_absoluteY="197dp" />
 
@@ -96,6 +97,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="S2J group"
+        android:textStyle="bold"
         tools:layout_editor_absoluteX="195dp"
         tools:layout_editor_absoluteY="187dp" />
 
